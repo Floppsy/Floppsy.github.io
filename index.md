@@ -9,7 +9,7 @@
 <br><br>This project was made during the course of my Unity education. It was the first project ever uploaded to a public site.<br><br>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Test](/images/slika.jpg)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
