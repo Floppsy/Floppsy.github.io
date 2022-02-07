@@ -9,8 +9,8 @@
 <br><br>This project was made during the course of my Unity education. It was the first project ever uploaded to a public site.<br><br>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Not Again](https://njoknjok.itch.io/not-again)
+<img src="https://img.itch.zone/aW1hZ2UvMTM4OTc1My84MDk3NTI2LnBuZw==/original/FCqOH1.png?raw=true"/>
 
 ---
 
