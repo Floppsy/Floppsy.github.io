@@ -11,6 +11,7 @@
 ---
 [AR gym application](/images/slika.jpg)
 <img src="images/gymar.jpeg?raw=true"/>
+<img src="images/gymar1.jpeg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
