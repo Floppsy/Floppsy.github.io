@@ -9,8 +9,8 @@
 <br><br>This project was made during the course of my Unity education. It was the first project ever uploaded to a public site.<br><br>
 
 ---
-[Test](/images/slika.jpg)
-<img src="images/slika.jpg?raw=true"/>
+[AR gym application](/images/slika.jpg)
+<img src="images/gymar.jpeg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
