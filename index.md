@@ -11,6 +11,7 @@
 ---
 [Not Again](https://njoknjok.itch.io/not-again)
 <img src="https://img.itch.zone/aW1hZ2UvMTM4OTc1My84MDk3NTI2LnBuZw==/original/FCqOH1.png?raw=true"/>
+<br><br>This project was made during the course of my Unity education. It was a project made with a couple of friends where we teste a little of our abilities in game design.<br><br>
 
 ---
 
