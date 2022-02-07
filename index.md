@@ -9,17 +9,12 @@
 <br><br>This project was made during the course of my Unity education. It was the first project ever uploaded to a public site.<br><br>
 
 ---
-[AR gym application](/images/slika.jpg)
-<img src="images/gymar.jpeg?raw=true"/>
-<img src="images/gymar1.jpeg?raw=true"/>
-
----
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Level design
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -28,9 +23,11 @@
 - [Project 5 Title](http://example.com/)
 
 ---
+### Apps
 
-
-
+[AR gym application]
+<img src="images/gymar.jpeg?raw=true"/>
+<br><br><img src="images/gymar1.jpeg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
