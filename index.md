@@ -6,7 +6,7 @@
 
 [GROW](https://njoknjok.itch.io/grow)
 <img src="https://img.itch.zone/aW1nLzcyOTYyMTQuanBn/original/TVtFGC.jpg"/>
-<br><br>This project was made during the course f my Unity education. It was the first project ever uploaded to a public site.<br><br>
+<br><br>This project was made during the course of my Unity education. It was the first project ever uploaded to a public site.<br><br>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
